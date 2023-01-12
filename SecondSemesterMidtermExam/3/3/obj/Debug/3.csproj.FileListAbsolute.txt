@@ -1,0 +1,10 @@
+F:\程設\1B-10733237-林芳羽\3\3\bin\Debug\3.exe.config
+F:\程設\1B-10733237-林芳羽\3\3\bin\Debug\3.exe
+F:\程設\1B-10733237-林芳羽\3\3\bin\Debug\3.pdb
+F:\程設\1B-10733237-林芳羽\3\3\obj\Debug\3.csprojAssemblyReference.cache
+F:\程設\1B-10733237-林芳羽\3\3\obj\Debug\_3.Form1.resources
+F:\程設\1B-10733237-林芳羽\3\3\obj\Debug\_3.Properties.Resources.resources
+F:\程設\1B-10733237-林芳羽\3\3\obj\Debug\3.csproj.GenerateResource.cache
+F:\程設\1B-10733237-林芳羽\3\3\obj\Debug\3.csproj.CoreCompileInputs.cache
+F:\程設\1B-10733237-林芳羽\3\3\obj\Debug\3.exe
+F:\程設\1B-10733237-林芳羽\3\3\obj\Debug\3.pdb
